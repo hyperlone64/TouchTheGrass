@@ -1,7 +1,8 @@
 hello gentlemens!  
-hey, chris is here!  
-hey, arthur is here!  
-hey, leaf is here!  
-hey, wiltark is here!  
-hey, fox3000foxy is here!  
-hey, roxasytb is here!  
+chris is here!  
+arthur is here!  
+leaf is here!  
+wiltark is here!  
+fox3000foxy is here!  
+roxas is here!  
+fourty3000 is here!
